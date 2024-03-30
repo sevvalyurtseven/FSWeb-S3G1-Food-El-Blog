@@ -69,6 +69,7 @@ line-height: 1.4;
 .container header nav a:hover {
   /*======= background property yaratın ve değeri white olsun.  Sonra, color property yaratın ve değerini #E79947 yapın. */
   background: white;
+  color: #e79947;
 }
 
 /*======= Hakkmızda bölümü için aşağıdaki stilleri içeren bir selector yaratın:
