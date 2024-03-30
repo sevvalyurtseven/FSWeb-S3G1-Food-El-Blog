@@ -63,6 +63,7 @@ line-height: 1.4;
   text-decoration: none;
   margin-bottom: 20px;
   /*======= background property yaratın. Değerini #E79947 olarak atayınız.*/
+  background: #e79947;
 }
 
 .container header nav a:hover {
