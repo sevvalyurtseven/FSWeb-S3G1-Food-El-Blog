@@ -45,6 +45,7 @@ line-height: 1.4;
 img {
   border-radius: 10px;
   width: 100%;
+  display: block;
 }
 
 .content-row {
