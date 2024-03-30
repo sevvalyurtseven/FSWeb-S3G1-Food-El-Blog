@@ -50,6 +50,7 @@ line-height: 1.4;
 .container {
   /*======= width property yaratın. Değerini 750px olarak atayın */
   margin: 0 auto;
+  width: 750px;
 }
 
 .container header nav a {
