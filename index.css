@@ -27,7 +27,6 @@ h6 {
   padding: 0 10px;
   /*=======  Font size'ı 30px yapın*/
   font-size: 30px;
-  margin-top: 0;
 }
 
 /*======= Sayfadaki TÜM p tag'leri için aşağıdaki özellikleri içeren bir selector yaratın:
@@ -69,7 +68,6 @@ img {
 
 .content-row img {
   width: 50%;
-  height: 350px;
 }
 
 .content-row div {
