@@ -58,6 +58,12 @@ img {
 
 .content-row {
   display: flex;
+  padding: 30px;
+}
+
+.content-row img {
+  width: 50%;
+  height: 350px;
 }
 
 .content-row div {
@@ -93,6 +99,9 @@ img {
 /*======= Hakkmızda bölümü için aşağıdaki stilleri içeren bir selector yaratın:
   margin-top: 20px;
 */
+.about {
+  margin-top: 20px;
+}
 
 .contact-section {
   border-top: 1px dashed black;
