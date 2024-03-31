@@ -130,6 +130,7 @@ footer {
 footer .footer-content {
   margin: 0 auto;
   /*======= width property yaratın. Değerini 750px olarak atayın */
+  width: 750px;
 }
 
 footer .footer-content h3 {
