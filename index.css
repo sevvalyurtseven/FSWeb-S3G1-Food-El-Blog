@@ -148,6 +148,12 @@ footer nav {
   text-decoration: underline;
 */
 
+footer nav a {
+  margin: 10px;
+  color: black;
+  text-decoration: underline;
+}
+
 footer nav a:first-child {
   margin-left: 0;
 }
