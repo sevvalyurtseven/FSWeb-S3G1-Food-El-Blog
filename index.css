@@ -117,6 +117,10 @@ img {
    line-height: 2;
 */
 
+.contact-section address {
+  line-height: 2;
+}
+
 footer {
   width: 100%;
   background: #e79947;
