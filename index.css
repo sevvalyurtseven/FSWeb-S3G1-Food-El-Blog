@@ -162,6 +162,10 @@ footer nav a:first-child {
   color: white;
 */
 
+footer nav a:hover {
+  color: white;
+}
+
 footer .footer-content .copyright {
   padding: 20px 0;
   /*======= metni ortalayacak kodu yazın */
