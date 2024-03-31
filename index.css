@@ -63,11 +63,14 @@ img {
 
 .content-row {
   display: flex;
-  padding: 30px;
+  padding: 20px;
+  align-items: center;
 }
 
 .content-row img {
-  width: 50%;
+  width: 350px;
+  object-fit: cover;
+  height: 100%;
 }
 
 .content-row div {
@@ -78,7 +81,7 @@ img {
 .container {
   /*======= width property yaratın. Değerini 750px olarak atayın */
   margin: 0 auto;
-  width: 750px;
+  width: 750px; /* genislik */
 }
 
 .container header nav a {
